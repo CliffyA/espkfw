@@ -1,12 +1,12 @@
 /*
 	This is a library for the ESP32 to access *most* of the features of the keyboard
-	featherwing by solder.party
+	featherwing by solder.party and @arturo182
 
 	https://kfw.solder.party/
 
 	Note that touch screen, and lcd backlight is not (yet) supported.
 
-	Code copyright (c) 2020 Adam Clifton <adam@numbatlogic.com>
+	Code copyright (c) 2021 Adam Clifton <adam@numbatlogic.com>
 	All Rights Reserved
 
 	This program is free software. It comes without any warranty, to

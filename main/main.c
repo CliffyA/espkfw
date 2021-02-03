@@ -14,7 +14,7 @@ Use the directions to move your paddle.
 
 Sprites by Buch - https://opengameart.org/content/breakout-set
 
-Code copyright (c) 2020 Adam Clifton <adam@numbatlogic.com>
+Code copyright (c) 2021 Adam Clifton <adam@numbatlogic.com>
 All Rights Reserved
 
 This program is free software. It comes without any warranty, to

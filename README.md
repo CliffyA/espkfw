@@ -11,7 +11,7 @@ Just add espkfw.h and espkfw.c to your project.
 
 See espkfw.h for more details and main.c for a demo.
 
-Code copyright (c) 2020 Adam Clifton <adam@numbatlogic.com>
+Code copyright (c) 2021 Adam Clifton <adam@numbatlogic.com>
 All Rights Reserved
 
 This program is free software. It comes without any warranty, to
