@@ -1,10 +1,15 @@
 This is a simple library you can drop into your esp-idf projects to access *most* of the features of the Keyboard Featherwing by @arturo182
 
-	https://kfw.solder.party/
+https://kfw.solder.party/
 
 Note that touch screen, and lcd backlight is not (yet) supported.
 
-See espkfw.h for more details
+See it in action here:
+https://www.youtube.com/watch?v=9R6E88lAoKE
+
+Just add espkfw.h and espkfw.c to your project.
+
+See espkfw.h for more details and main.c for a demo.
 
 Code copyright (c) 2020 Adam Clifton <adam@numbatlogic.com>
 All Rights Reserved
